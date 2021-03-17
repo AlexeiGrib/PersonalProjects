@@ -15,13 +15,14 @@
 1. pandas
 2. numpy
 3. re
-4. nltk (stopwords, SnowballStemmer)
-5. TruncatedSVD
-6. TfidfVectorizer
-7. GridSearchCV
-8. CatBoostClassifier
-9. LogisticRegression
-10. matplotlib
+4. nltk.stopwords
+5. nltk.SnowballStemmer
+6. sklearn.TruncatedSVD
+7. sklearn.TfidfVectorizer
+8. sklearn.GridSearchCV
+9. sklearn.CatBoostClassifier
+10. sklearn.LogisticRegression
+11. matplotlib
 
 ## Результаты проекта:
 
