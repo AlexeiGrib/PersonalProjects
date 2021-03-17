@@ -3,4 +3,5 @@
 
 | Название проекта              | Описание проекта           | Используемые библиотеки                     |
 | :-------------------- | :--------------------- |:----------------------------|
-| [Кластеризация спам-текстов](https://github.com/AlexeiGrib/yandex_empl/tree/main/NLP_spam%20clustering) | С помощью алгоритма KMeans проведена кластеризация текстов СМС-сообщений, в спамных СМС выявлены слова с наибольшей частотой встречаемости. | pandas, re, nltk, sklearn, matplotlib, wordcloud|
+| [Кластеризация спам-текстов](https://github.com/AlexeiGrib/yandex_empl/tree/main/NLP_spam%20clustering) | Кластеризация текстов спамных СМС-сообщений с помощью алгоритма KMeans и выявление в спамных СМС-сообщениях наиболее часто встречающихся слов. | pandas, re, nltk, sklearn, matplotlib, wordcloud|
+| [Определение токсичных комментариев](https://github.com/AlexeiGrib/yandex_empl/tree/main/NLP_toxic_comments_classification) | Разделение текстовых комментариев на токсичные и нормальные с помощью алгоритмов классификации. | pandas, numpy, re, nltk, sklearn, catboost, matplotlib, wordcloud|
