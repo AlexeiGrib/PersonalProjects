@@ -16,10 +16,12 @@
 
 1. pandas
 2. re
-3. nltk
-4. sklearn
-5. matplotlib
-6. wordcloud
+3. nltk.stopwords
+4. nltk.SnowballStemmer
+5. nltk.CountVectorizer
+6. sklearn.KMeans
+7. matplotlib
+8. wordcloud
 
 ## Основные результаты проекта:
 
